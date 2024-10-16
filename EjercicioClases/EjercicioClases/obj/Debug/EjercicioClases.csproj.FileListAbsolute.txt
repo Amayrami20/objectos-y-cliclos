@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\bin\Debug\EjercicioClases.exe.config
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\bin\Debug\EjercicioClases.exe
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\bin\Debug\EjercicioClases.pdb
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\obj\Debug\EjercicioClases.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\obj\Debug\EjercicioClases.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\obj\Debug\Ejercici.9DF7E92F.Up2Date
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\obj\Debug\EjercicioClases.exe
+C:\Users\HP\source\repos\EjercicioClases\EjercicioClases\obj\Debug\EjercicioClases.pdb
